@@ -93,8 +93,6 @@ h2 {
     text-align: center;
     text-decoration: underline;
     font-size: 32px;
-    padding-right: 500px;
-    margin-right: 500px;
 }
 
 .abouts p {
@@ -103,17 +101,46 @@ h2 {
     align-items: center;
     text-align: center;
     width: 50%;
-    margin-left: 100px;
+    margin-left: 350px;
 }
 
 .project {
     justify-content: center;
+    margin-top: 50px;
 }
 
 .project h3 {
     text-align: center;
     text-decoration: underline;
     font-size: 32px;
-    padding-right: 500px;
-    margin-right: 500px;
+
+}
+.ffxiv header {
+    font-size: 24px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.ffxiv img {
+    width: 100%;
+    max-height: 700px;
+    background-position: center;
+}
+
+.games{
+    display: inline-block;
+}
+
+.games header {
+    font-size: 24px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.games img {
+    width: 500px;
+    height: 450px;
+    
 }
