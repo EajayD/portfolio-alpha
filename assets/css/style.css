@@ -81,4 +81,39 @@ h2 {
     image-rendering: smooth;
 }
 
+.meat {
+    display: inline-block;
+}
 
+.abouts {
+    justify-content: center;
+}
+
+.abouts h3 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 32px;
+    padding-right: 500px;
+    margin-right: 500px;
+}
+
+.abouts p {
+    display: block;
+    font-size: 24px;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    margin-left: 100px;
+}
+
+.project {
+    justify-content: center;
+}
+
+.project h3 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 32px;
+    padding-right: 500px;
+    margin-right: 500px;
+}
