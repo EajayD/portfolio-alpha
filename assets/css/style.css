@@ -44,3 +44,41 @@ nav ul li a {
     color:plum;
     text-decoration: none;
 }
+
+.quickintro {
+    display: flex;
+    float: left;
+    flex-direction: column;
+    width: 50%;
+    padding-top: 75px;
+    margin-top: 45px;
+}
+
+h2 {
+    font-size: 75px;
+    text-align: center;
+}
+
+.quickintro p {
+    font-size: 48px;
+    color:gray;
+    text-align: center;
+    padding-top: 25px;
+    margin-top: 25px;
+}
+
+.eajay {
+    display: flex;
+    float: right;
+    flex-direction: column;
+    width: 50%;
+    padding: 75px;
+
+}
+
+.eajay img {
+    max-height: 500px; 
+    image-rendering: smooth;
+}
+
+
