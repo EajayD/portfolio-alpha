@@ -120,6 +120,7 @@ h2 {
     text-align: center;
     background-color: black;
     color: white;
+    text-decoration: underline;
 }
 
 .ffxiv img {
@@ -137,10 +138,39 @@ h2 {
     text-align: center;
     background-color: black;
     color: white;
+    text-decoration: underline;
 }
 
 .games img {
     width: 500px;
     height: 450px;
+    border: solid;
+    border-color: blueviolet;
+    border-width: 10px;
+    transform: rotate(5deg);
     
+}
+
+footer {
+    padding: 25px;
+    text-align: center;
+
+}
+
+footer h4 {
+    font-size: 20px;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+footer ul li {
+    display: inline-block;
+    color: plum
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: plum;
 }
